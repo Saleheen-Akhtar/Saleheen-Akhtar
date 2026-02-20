@@ -1,18 +1,20 @@
-# 👋 Welcome to Saleheen Akhtar's Developer Profile
+# 🐍 The Developer Quest: Rise of Saleheen
 
-### 💼 Recruiter Exploration Panel
+Welcome, Recruiter.
 
-Thank you for visiting my GitHub.  
-Choose what you’d like to explore:
+You are about to enter a text-based developer RPG.
+Your mission: Navigate the code world and unlock the Skilled Developer.
 
 ---
 
-### 🔍 Explore Sections
+## 🎮 Controls
 
-▶️ [📊 View Technical Strength](#technical-strength)  
-▶️ [🚀 Explore Featured Projects](#featured-projects)  
-▶️ [🧠 View Problem-Solving Approach](#problem-solving-approach)  
-▶️ [🎯 Why Consider Hiring Me?](#why-consider-hiring-me)
+Choose your direction:
+
+▶️ [Enter the Code Forest 🌲](#code-forest)  
+▶️ [Enter the AI Lab 🤖](#ai-lab)  
+▶️ [Enter the System Arena ⚙️](#system-arena)  
+▶️ [Face the Final Boss 👑](#final-boss)
 
 ---
 
@@ -20,58 +22,96 @@ Choose what you’d like to explore:
 
 ---
 
-## 📊 Technical Strength
+## 🌲 Code Forest
 
-**Core Areas:**
-- Backend Development (FastAPI, Node.js)
-- Machine Learning & Computer Vision
-- Real-Time System Architecture
-- Database Design (MySQL, SQLite)
+You move forward...
 
-**Programming:**
-Python | JavaScript | C++ | SQL  
 
-⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
++-------------------+
+| 🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| 🟩⬜⬜⬜🐍⬜⬜⬜🟩 |
+| 🟩⬜🟩🟩🟩🟩🟩⬜🟩 |
+| 🟩⬜⬜⬜⬜⬜🟩⬜🟩 |
+| 🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
++-------------------+
 
----
 
-## 🚀 Featured Projects
+🐍 = Developer  
+🟩 = Obstacles  
+⬜ = Path  
 
-### 🛣️ Pothole Detection System
-AI-powered road damage detection using YOLO & OpenCV.
+You collected:  
+✔ Python  
+✔ JavaScript  
+✔ C++
 
-### 💬 Real-Time Messaging Application
-WhatsApp-inspired messaging system with secure authentication.
+What’s next?
 
-### 📊 Dynamic Data Processing System
-Schema-adaptive data analysis using SQLite backend.
-
-⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
-
----
-
-## 🧠 Problem-Solving Approach
-
-✔️ Understand real-world use case  
-✔️ Design scalable architecture  
-✔️ Optimize performance  
-✔️ Write clean & maintainable code  
-✔️ Continuous improvement  
-
-⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
+➡️ [Enter AI Lab](#ai-lab)  
+⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
 
 ---
 
-## 🎯 Why Consider Hiring Me?
+## 🤖 AI Lab
 
-- 🎓 MCA with strong technical foundation  
-- 🚀 Hands-on production-style projects  
-- 🧠 Strong backend + AI integration capability  
-- ⚡ Fast learner & adaptable  
-- 📈 Growth-focused mindset  
+The snake evolves...
 
-If you reached here — thank you for exploring my profile.
 
-📩 Let’s build impactful systems together.
+Score: 250 XP
+Skill Unlocked: Machine Learning
+Skill Unlocked: YOLO + OpenCV
 
-⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
+
+You built:
+- 🛣️ Pothole Detection System
+- 📊 Intelligent Data Processing
+- ⚡ FastAPI Backend APIs
+
+The AI Core is stable.
+
+➡️ [Enter System Arena](#system-arena)  
+⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
+
+---
+
+## ⚙️ System Arena
+
+Boss Level: Real-Time Architecture
+
+Challenges:
+✔ Authentication Systems  
+✔ Database Optimization  
+✔ Scalable Backend Design  
+
+You survived production-level bugs 🐛
+
+XP Increased: 500
+
+➡️ [Face Final Boss](#final-boss)  
+⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
+
+---
+
+## 👑 Final Boss
+
+The Recruiter appears.
+
+Question:
+"Why should we hire Saleheen?"
+
+Answer unlocked:
+
+🎓 MCA Graduate  
+🧠 Strong in AI + Backend Systems  
+⚡ Builds real-world production-ready projects  
+🚀 Growth-oriented developer  
+
+🏆 Achievement Unlocked:
+**Skilled Full Stack Developer**
+
+If you reached here —
+You completed the Developer Quest.
+
+---
+
+⬅️ [Restart Game](#-the-developer-quest-rise-of-saleheen)
