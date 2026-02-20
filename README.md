@@ -1,125 +1,121 @@
-# SALEHEEN AKHTAR
-
-```
-> MCA Student.
-> Backend Engineer.
-> AI Builder.
-> Music Producer.
-> Bridging Logic & Sound.
-```
+<!-- Cinematic Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=SALEHEEN+AKHTAR;MCA+Student;Backend+%7C+AI+Engineer;Music+Producer;Engineering+Systems+%26+Sound" />
+</p>
 
 ---
 
-## Who Am I?
+# 👋 Welcome to My World
 
-I am a Master of Computer Applications student driven by two parallel worlds:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-- Engineering scalable backend systems  
-- Producing immersive music experiences  
+I operate at the intersection of:
 
-One side builds architecture.  
-The other builds atmosphere.
-
-Both demand precision, structure, creativity, and discipline.
+💻 **Scalable Backend Architecture**  
+🤖 **Artificial Intelligence Systems**  
+🎧 **Music Production & Sound Engineering**
 
 ---
 
-## The Engineer
+# 🎓 MCA Student | Systems Thinker
 
-I specialize in building systems that are:
+I design and build:
 
-- Structured  
-- Scalable  
-- Production-ready  
-- Real-world applicable  
+- Production-ready backend systems  
+- AI-powered solutions  
+- Real-time applications  
+- Optimized database architectures  
 
-### Core Focus Areas
+---
 
-Backend Development  
-Machine Learning & AI Systems  
-Real-Time Architectures  
-Database Optimization  
-Clean System Design  
+# 🧠 Developer Mode
 
-### Technical Stack
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
 
-Languages:
+### Core Stack
+
+**Languages**
 Python · JavaScript · C++ · SQL  
 
-Frameworks & Tools:
+**Frameworks & Tools**
 FastAPI · Node.js · MySQL · SQLite · OpenCV · YOLO  
 
-I don’t just build projects.  
-I build systems that solve problems.
+---
+
+# 🤖 Featured Technical Work
+
+### 🛣️ Pothole Detection System
+AI-based road damage detection using YOLO + OpenCV.
+
+### 💬 Real-Time Messaging System
+Secure authentication, scalable backend, real-time architecture.
+
+### 📊 Intelligent Data Systems
+Schema-adaptive data processing using SQLite.
 
 ---
 
-## The Producer
+# 🎧 Producer Mode
 
-Music production taught me:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400"/>
+</p>
 
-- Pattern recognition  
-- Layered architecture (like backend systems)  
-- Signal flow (like data pipelines)  
-- Precision timing (like async processes)  
-- Emotional impact (like user experience)  
+Music production shaped my engineering mindset:
 
-Where backend engineering needs structure,  
-music needs flow.
+- Layered composition = Modular architecture  
+- Signal flow = Data pipelines  
+- Mixing & mastering = Optimization & deployment  
+- Rhythm = System performance  
 
-I build both.
+Creativity fuels logic.  
+Logic refines creativity.
 
 ---
 
-## Philosophy
+# 📊 Developer Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleheen-Akhtar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# ⚡ Philosophy
 
 Code is rhythm.  
 Architecture is composition.  
-Debugging is mixing.  
-Deployment is mastering.
+Deployment is mastering.  
 
-Whether it's an API or an instrumental track,  
-I care about:
-
-- Clean structure  
-- Balanced components  
-- Performance  
-- Impact  
+I don’t just build projects.  
+I build systems with impact.
 
 ---
 
-## Current Direction
+# 🚀 Current Focus
 
-- Advancing backend architecture skills  
-- Deepening AI integration capability  
-- Building production-level systems  
-- Expanding creative sound design  
-
----
-
-## Why This Matters
-
-Technology without creativity becomes mechanical.  
-Creativity without structure becomes chaotic.
-
-I work at the intersection.
+- Advanced Backend Architecture  
+- AI Integration  
+- Production-level system design  
+- Expanding creative sound engineering  
 
 ---
 
-## Final Note
-
-This profile is not just a list of repositories.
-
-It represents:
-
-Discipline from engineering.  
-Expression from music.  
-Growth from curiosity.  
-
-And this is only the beginning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saleheen-Akhtar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-If you're exploring for a developer who understands both systems and sound —
-
-Welcome.
+<p align="center">
+  ⭐ Engineering Systems. Producing Sound. Building the Future.
+</p>
