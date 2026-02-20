@@ -1,117 +1,150 @@
-# 🐍 The Developer Quest: Rise of Saleheen
+# 🐍 SALEHEEN.EXE — The Developer Ascension Protocol
 
-Welcome, Recruiter.
+```
+> Boot Sequence Initiated...
+> Portfolio Interface Loading...
+> Recruiter Presence Detected 👀
+> Initializing Developer Snake Engine...
+```
 
-You are about to enter a text-based developer RPG.
-Your mission: Navigate the code world and unlock the Skilled Developer.
+Welcome to an interactive developer experience.
 
----
-
-## 🎮 Controls
-
-Choose your direction:
-
-▶️ [Enter the Code Forest 🌲](#code-forest)  
-▶️ [Enter the AI Lab 🤖](#ai-lab)  
-▶️ [Enter the System Arena ⚙️](#system-arena)  
-▶️ [Face the Final Boss 👑](#final-boss)
+Your mission:
+Guide the Snake 🐍 through the Code Realm and unlock the Elite Developer.
 
 ---
 
-<br><br>
+# 🎮 MAIN MENU
+
+▶️ [Initialize Snake 🐍](#stage-1--initialization)  
+▶️ [Trigger AI Evolution 🤖](#stage-2--ai-evolution)  
+▶️ [Enter Production Battlefield ⚔️](#stage-3--production-battlefield)  
+▶️ [Attempt Final Evaluation 👑](#stage-4--final-evaluation)
 
 ---
 
-## 🌲 Code Forest
+---
 
-You move forward...
+# Stage 1 — Initialization
 
+```
++---------------------------+
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 🟦⬜⬜⬜🐍⬜⬜⬜⬜⬜🟦 |
+| 🟦⬜🟦🟦🟦🟦🟦🟦🟦⬜🟦 |
+| 🟦⬜⬜⬜⬜⬜⬜⬜🟦⬜🟦 |
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
++---------------------------+
+```
 
-+-------------------+
-| 🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| 🟩⬜⬜⬜🐍⬜⬜⬜🟩 |
-| 🟩⬜🟩🟩🟩🟩🟩⬜🟩 |
-| 🟩⬜⬜⬜⬜⬜🟩⬜🟩 |
-| 🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-+-------------------+
+XP: 100  
 
+Skills Acquired:
+- ✔ Python  
+- ✔ JavaScript  
+- ✔ C++  
+- ✔ SQL  
 
-🐍 = Developer  
-🟩 = Obstacles  
-⬜ = Path  
+The Snake awakens...
 
-You collected:  
-✔ Python  
-✔ JavaScript  
-✔ C++
-
-What’s next?
-
-➡️ [Enter AI Lab](#ai-lab)  
-⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
+➡️ [Advance to Stage 2](#stage-2--ai-evolution)  
+⬅️ [Return to Main Menu](#-saleheenexe--the-developer-ascension-protocol)
 
 ---
 
-## 🤖 AI Lab
+# Stage 2 — AI Evolution
 
-The snake evolves...
+```
++---------------------------+
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 🟦⬜🐍🐍⬜⬜⬜⬜⬜⬜🟦 |
+| 🟦⬜🟦🟦🟦🟦🟦🟦🟦⬜🟦 |
+| 🟦⬜⬜⬜⬜⬜⬜⬜🟦⬜🟦 |
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
++---------------------------+
+```
 
+XP: 350  
 
-Score: 250 XP
-Skill Unlocked: Machine Learning
-Skill Unlocked: YOLO + OpenCV
+Abilities Unlocked:
+- 🤖 Machine Learning  
+- 🛣️ Pothole Detection using YOLO  
+- 📊 Intelligent Data Processing  
+- ⚡ FastAPI Backend APIs  
 
+Snake Intelligence Increased.
 
-You built:
-- 🛣️ Pothole Detection System
-- 📊 Intelligent Data Processing
-- ⚡ FastAPI Backend APIs
-
-The AI Core is stable.
-
-➡️ [Enter System Arena](#system-arena)  
-⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
-
----
-
-## ⚙️ System Arena
-
-Boss Level: Real-Time Architecture
-
-Challenges:
-✔ Authentication Systems  
-✔ Database Optimization  
-✔ Scalable Backend Design  
-
-You survived production-level bugs 🐛
-
-XP Increased: 500
-
-➡️ [Face Final Boss](#final-boss)  
-⬅️ [Go Back](#-the-developer-quest-rise-of-saleheen)
+➡️ [Advance to Stage 3](#stage-3--production-battlefield)  
+⬅️ [Return to Main Menu](#-saleheenexe--the-developer-ascension-protocol)
 
 ---
 
-## 👑 Final Boss
+# Stage 3 — Production Battlefield
 
-The Recruiter appears.
+```
++---------------------------+
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 🟦🐍🐍🐍⬜⬜⬜⬜⬜⬜🟦 |
+| 🟦⬜🟦🟦🟦🟦🟦🟦🟦⬜🟦 |
+| 🟦⬜⬜⬜⬜⬜⬜⬜🟦⬜🟦 |
+| 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
++---------------------------+
+```
+
+XP: 700  
+
+Bosses Defeated:
+- ✔ Real-Time Messaging Architecture  
+- ✔ OTP Authentication Systems  
+- ✔ Database Optimization  
+- ✔ Backend Scalability Challenges  
+- ✔ Debugging Under Pressure  
+
+Snake is now Production-Ready.
+
+➡️ [Face Final Evaluation](#stage-4--final-evaluation)  
+⬅️ [Return to Main Menu](#-saleheenexe--the-developer-ascension-protocol)
+
+---
+
+# Stage 4 — Final Evaluation
+
+The Recruiter Appears 👑
 
 Question:
-"Why should we hire Saleheen?"
+> Why should we hire Saleheen?
 
-Answer unlocked:
+System Response:
 
-🎓 MCA Graduate  
-🧠 Strong in AI + Backend Systems  
-⚡ Builds real-world production-ready projects  
-🚀 Growth-oriented developer  
-
-🏆 Achievement Unlocked:
-**Skilled Full Stack Developer**
-
-If you reached here —
-You completed the Developer Quest.
+- 🎓 MCA Graduate  
+- 🧠 Strong in AI + Backend Systems  
+- ⚡ Builds Production-Ready Applications  
+- 🚀 Rapid Learner with Growth Mindset  
+- 🛠️ Focused on Clean Architecture & Real-World Impact  
 
 ---
 
-⬅️ [Restart Game](#-the-developer-quest-rise-of-saleheen)
+🏆 ACHIEVEMENT UNLOCKED:
+
+# ELITE FULL STACK DEVELOPER
+
+Total XP: 1000+
+
+---
+
+# 🔐 Hidden Developer Core
+
+Curious minds continue exploring.
+
+If you reached here, here’s what truly defines me:
+
+I don’t just build projects.  
+I build systems.  
+I think about scalability, maintainability, and long-term architecture.  
+I continuously refine my skills in AI, backend engineering, and real-world system design.
+
+And this is only the beginning.
+
+---
+
+⬅️ [Restart Adventure](#-saleheenexe--the-developer-ascension-protocol)
