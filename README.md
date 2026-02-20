@@ -1,121 +1,94 @@
-<!-- Cinematic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=SALEHEEN+AKHTAR;MCA+Student;Backend+%7C+AI+Engineer;Music+Producer;Engineering+Systems+%26+Sound" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=Saleheen%20Akhtar&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=MCA%20Student%20%7C%20Backend%20Engineer%20%7C%20Music%20Producer&descAlignY=60&descSize=18" />
 </p>
 
 ---
 
-# 👋 Welcome to My World
+## Identity
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+I build in two domains:
 
-I operate at the intersection of:
+**Systems**  
+and  
+**Sound**
 
-💻 **Scalable Backend Architecture**  
-🤖 **Artificial Intelligence Systems**  
-🎧 **Music Production & Sound Engineering**
+One demands precision.  
+The other demands expression.  
 
----
-
-# 🎓 MCA Student | Systems Thinker
-
-I design and build:
-
-- Production-ready backend systems  
-- AI-powered solutions  
-- Real-time applications  
-- Optimized database architectures  
+Both demand discipline.
 
 ---
 
-# 🧠 Developer Mode
+## Engineering Layer
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
-</p>
+My work focuses on:
 
-### Core Stack
+- Backend architecture
+- AI-powered systems
+- Real-time applications
+- Database optimization
+- Clean, scalable design
 
-**Languages**
+### Core Technologies
+
 Python · JavaScript · C++ · SQL  
+FastAPI · Node.js · MySQL · SQLite  
+OpenCV · YOLO  
 
-**Frameworks & Tools**
-FastAPI · Node.js · MySQL · SQLite · OpenCV · YOLO  
-
----
-
-# 🤖 Featured Technical Work
-
-### 🛣️ Pothole Detection System
-AI-based road damage detection using YOLO + OpenCV.
-
-### 💬 Real-Time Messaging System
-Secure authentication, scalable backend, real-time architecture.
-
-### 📊 Intelligent Data Systems
-Schema-adaptive data processing using SQLite.
+I don't build features.  
+I design systems.
 
 ---
 
-# 🎧 Producer Mode
+## Creative Layer
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400"/>
-</p>
+Music production shaped my engineering mindset.
 
-Music production shaped my engineering mindset:
+Structure → Arrangement  
+Latency → Timing  
+Optimization → Mixing  
+Deployment → Mastering  
 
-- Layered composition = Modular architecture  
-- Signal flow = Data pipelines  
-- Mixing & mastering = Optimization & deployment  
-- Rhythm = System performance  
-
-Creativity fuels logic.  
-Logic refines creativity.
+When I produce music, I think like an engineer.  
+When I engineer systems, I think like a producer.
 
 ---
 
-# 📊 Developer Analytics
+## Selected Work
+
+🛣️ AI-based Pothole Detection System  
+💬 Real-Time Messaging Architecture  
+📊 Adaptive Data Processing Backend  
+
+Each project focuses on real-world impact, not just implementation.
+
+---
+
+## Developer Metrics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleheen-Akhtar&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-# ⚡ Philosophy
+## Direction
 
-Code is rhythm.  
-Architecture is composition.  
-Deployment is mastering.  
-
-I don’t just build projects.  
-I build systems with impact.
+- Deepening backend architecture expertise  
+- Expanding AI integration capability  
+- Refining production-level engineering  
+- Evolving creative sound identity  
 
 ---
 
-# 🚀 Current Focus
+## Closing Statement
 
-- Advanced Backend Architecture  
-- AI Integration  
-- Production-level system design  
-- Expanding creative sound engineering  
+Technology without creativity becomes mechanical.  
+Creativity without structure becomes chaos.
 
----
+I operate in the balance.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saleheen-Akhtar&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<p align="center">
-  ⭐ Engineering Systems. Producing Sound. Building the Future.
+  — Saleheen
 </p>
