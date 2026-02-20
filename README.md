@@ -1,81 +1,64 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋 I'm Saleheen Akhtar</h1>
+# 🎮 Developer Adventure - Choose Your Path
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Backend+Systems+Builder;Always+Learning+New+Tech" />
-</p>
+Welcome, Recruiter 👋  
+You are about to explore **Saleheen Akhtar's Developer World**
 
 ---
 
-## 🚀 About Me
+## 🚪 Choose Your Path
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 MCA Student passionate about building real-world applications  
-- 💻 Working on AI-powered systems & scalable backend solutions  
-- 🤖 Experienced in Machine Learning & Computer Vision  
-- ⚡ Love solving real-world problems with clean architecture  
-- 🌱 Currently improving System Design & Advanced Backend Skills  
+🔹 [🧠 View AI Projects](#ai-zone)  
+🔹 [💻 Explore Web Projects](#web-zone)  
+🔹 [📊 View GitHub Stats](#stats-zone)  
+🔹 [🎯 Why Hire Saleheen?](#hire-zone)
 
 ---
 
-## 🧠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,mysql,sqlite,cpp,git,github,vscode,opencv" />
-
-</p>
+<br><br><br>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 AI Zone
+Welcome to the AI Lab 🤖
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🔬 Built a **Pothole Detection System using YOLO & OpenCV**  
+📊 Developed ML-based intelligent systems  
+⚡ Optimized backend performance using FastAPI  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleheen-Akhtar&theme=tokyonight&hide_border=true"/>
-</p>
+⬅️ [Go Back](#-developer-adventure---choose-your-path)
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Web Zone
+Welcome to the Web Development Hub 🌐
 
-### 🛣️ Pothole Detection System
-AI-based road damage detection using YOLO, OpenCV & FastAPI backend.
+💬 Built a real-time messaging app  
+🔐 Implemented OTP authentication  
+🧩 Designed scalable backend architecture  
 
-### 💬 Real-Time Messaging App
-WhatsApp-like messaging app with Google Login & OTP authentication.
-
-### 📊 Dynamic Data Analysis System
-Schema-adaptive system using SQLite with intelligent data handling.
+⬅️ [Go Back](#-developer-adventure---choose-your-path)
 
 ---
 
-## 🏆 Achievements
+## 📊 Stats Zone
 
-- 🥇 Built production-ready AI-based projects  
-- 🧠 Strong understanding of Backend Architecture  
-- ⚡ Fast learner & problem solver  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+⬅️ [Go Back](#-developer-adventure---choose-your-path)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saleheen-Akhtar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 🎯 Hire Zone
 
-<p align="center">
-⭐️ From Saleheen Akhtar | Building The Future With Code
-</p>
+🏆 MCA Student  
+⚡ Fast Learner  
+🧠 Problem Solver  
+🚀 Production-Level Projects  
+
+If you made it here…
+
+**You unlocked a Skilled Developer 🎉**
+
+📩 Let’s Connect!
+
+⬅️ [Go Back](#-developer-adventure---choose-your-path)
