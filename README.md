@@ -1,94 +1,117 @@
+<!-- Dark Cinematic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=Saleheen%20Akhtar&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=MCA%20Student%20%7C%20Backend%20Engineer%20%7C%20Music%20Producer&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=SALEHEEN%20AKHTAR&fontSize=42&fontColor=00F7FF&animation=fadeIn&desc=MCA%20Student%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20Music%20Producer&descAlignY=65&descSize=16" />
 </p>
 
 ---
 
-## Identity
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
 
-I build in two domains:
+---
+
+# 🌑 Identity
+
+I operate between two worlds:
 
 **Systems**  
 and  
 **Sound**
 
-One demands precision.  
-The other demands expression.  
+One is structured logic.  
+One is controlled chaos.  
 
-Both demand discipline.
-
----
-
-## Engineering Layer
-
-My work focuses on:
-
-- Backend architecture
-- AI-powered systems
-- Real-time applications
-- Database optimization
-- Clean, scalable design
-
-### Core Technologies
-
-Python · JavaScript · C++ · SQL  
-FastAPI · Node.js · MySQL · SQLite  
-OpenCV · YOLO  
-
-I don't build features.  
-I design systems.
+Both demand discipline. Both demand vision.
 
 ---
 
-## Creative Layer
+# ⚙️ Engineering Presence
 
-Music production shaped my engineering mindset.
+I build:
 
-Structure → Arrangement  
-Latency → Timing  
-Optimization → Mixing  
-Deployment → Mastering  
+- Scalable backend architectures  
+- AI-powered real-world systems  
+- Real-time applications  
+- Optimized database structures  
+- Production-ready software  
 
-When I produce music, I think like an engineer.  
-When I engineer systems, I think like a producer.
+### Core Stack
+
+```text
+Python      JavaScript      C++
+SQL         FastAPI         Node.js
+MySQL       SQLite          OpenCV
+YOLO
+```
+
+I don’t build demos.  
+I build systems that survive real use.
 
 ---
 
-## Selected Work
+# 🤖 Selected Technical Work
 
-🛣️ AI-based Pothole Detection System  
-💬 Real-Time Messaging Architecture  
-📊 Adaptive Data Processing Backend  
+🛣️ **AI Pothole Detection System**  
+Computer vision powered detection using YOLO & OpenCV.
 
-Each project focuses on real-world impact, not just implementation.
+💬 **Real-Time Messaging Architecture**  
+Secure authentication + scalable backend design.
+
+📊 **Adaptive Data Processing Engine**  
+Schema-intelligent backend system using SQLite.
 
 ---
 
-## Developer Metrics
+# 🎧 Creative Dimension
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="500"/>
+</p>
+
+Music production shaped my engineering instinct.
+
+Layering tracks → Modular system design  
+Signal flow → Data pipelines  
+Mixing & mastering → Optimization & deployment  
+Timing → Asynchronous processing  
+
+Creativity refined my logic.  
+Logic refined my creativity.
+
+---
+
+# 📊 System Metrics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleheen-Akhtar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleheen-Akhtar&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
 
-## Direction
+# 🎯 Current Direction
 
-- Deepening backend architecture expertise  
-- Expanding AI integration capability  
-- Refining production-level engineering  
-- Evolving creative sound identity  
+- Advanced backend architecture mastery  
+- Deep AI system integration  
+- Production-level engineering refinement  
+- Expanding cinematic sound identity  
 
 ---
 
-## Closing Statement
+# 🖤 Philosophy
 
 Technology without creativity becomes mechanical.  
 Creativity without structure becomes chaos.
 
-I operate in the balance.
+I build in the balance.
+
+---
 
 <p align="center">
-  — Saleheen
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=footer&text=Engineering%20Systems%20%7C%20Producing%20Sound&fontSize=18&fontColor=00F7FF" />
 </p>
