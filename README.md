@@ -1,64 +1,77 @@
-# 🎮 Developer Adventure - Choose Your Path
+# 👋 Welcome to Saleheen Akhtar's Developer Profile
 
-Welcome, Recruiter 👋  
-You are about to explore **Saleheen Akhtar's Developer World**
+### 💼 Recruiter Exploration Panel
 
----
-
-## 🚪 Choose Your Path
-
-🔹 [🧠 View AI Projects](#ai-zone)  
-🔹 [💻 Explore Web Projects](#web-zone)  
-🔹 [📊 View GitHub Stats](#stats-zone)  
-🔹 [🎯 Why Hire Saleheen?](#hire-zone)
+Thank you for visiting my GitHub.  
+Choose what you’d like to explore:
 
 ---
 
-<br><br><br>
+### 🔍 Explore Sections
+
+▶️ [📊 View Technical Strength](#technical-strength)  
+▶️ [🚀 Explore Featured Projects](#featured-projects)  
+▶️ [🧠 View Problem-Solving Approach](#problem-solving-approach)  
+▶️ [🎯 Why Consider Hiring Me?](#why-consider-hiring-me)
 
 ---
 
-## 🧠 AI Zone
-Welcome to the AI Lab 🤖
-
-🔬 Built a **Pothole Detection System using YOLO & OpenCV**  
-📊 Developed ML-based intelligent systems  
-⚡ Optimized backend performance using FastAPI  
-
-⬅️ [Go Back](#-developer-adventure---choose-your-path)
+<br><br>
 
 ---
 
-## 💻 Web Zone
-Welcome to the Web Development Hub 🌐
+## 📊 Technical Strength
 
-💬 Built a real-time messaging app  
-🔐 Implemented OTP authentication  
-🧩 Designed scalable backend architecture  
+**Core Areas:**
+- Backend Development (FastAPI, Node.js)
+- Machine Learning & Computer Vision
+- Real-Time System Architecture
+- Database Design (MySQL, SQLite)
 
-⬅️ [Go Back](#-developer-adventure---choose-your-path)
+**Programming:**
+Python | JavaScript | C++ | SQL  
 
----
-
-## 📊 Stats Zone
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleheen-Akhtar&show_icons=true&theme=tokyonight)
-
-⬅️ [Go Back](#-developer-adventure---choose-your-path)
+⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
 
 ---
 
-## 🎯 Hire Zone
+## 🚀 Featured Projects
 
-🏆 MCA Student  
-⚡ Fast Learner  
-🧠 Problem Solver  
-🚀 Production-Level Projects  
+### 🛣️ Pothole Detection System
+AI-powered road damage detection using YOLO & OpenCV.
 
-If you made it here…
+### 💬 Real-Time Messaging Application
+WhatsApp-inspired messaging system with secure authentication.
 
-**You unlocked a Skilled Developer 🎉**
+### 📊 Dynamic Data Processing System
+Schema-adaptive data analysis using SQLite backend.
 
-📩 Let’s Connect!
+⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
 
-⬅️ [Go Back](#-developer-adventure---choose-your-path)
+---
+
+## 🧠 Problem-Solving Approach
+
+✔️ Understand real-world use case  
+✔️ Design scalable architecture  
+✔️ Optimize performance  
+✔️ Write clean & maintainable code  
+✔️ Continuous improvement  
+
+⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
+
+---
+
+## 🎯 Why Consider Hiring Me?
+
+- 🎓 MCA with strong technical foundation  
+- 🚀 Hands-on production-style projects  
+- 🧠 Strong backend + AI integration capability  
+- ⚡ Fast learner & adaptable  
+- 📈 Growth-focused mindset  
+
+If you reached here — thank you for exploring my profile.
+
+📩 Let’s build impactful systems together.
+
+⬅️ [Back to Top](#-welcome-to-saleheen-akhtars-developer-profile)
